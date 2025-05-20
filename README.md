@@ -1,5 +1,5 @@
 # CounterStrike1.6
-Present all my try/dev clone of the Counter-Strike 1.6 game
+Present all my try/dev clones of the Counter-Strike 1.6 game
 
 
 
@@ -13,6 +13,9 @@ Starting date : 2025
 
 
 ## First clone : Goliath-Engine
+
+https://github.com/hiergaut/Goliath-Engine
+
 My first experimental engine (C++, OpenGL, Qt) for rendering, modelisation and animation
 
 Gui (clone Blender)
