@@ -7,7 +7,10 @@ Present all my try/dev clones of the Counter-Strike 1.6 game
 ### First demo 
 [![](https://img.youtube.com/vi/SAzxTfb2hlI/0.jpg)](https://youtu.be/SAzxTfb2hlI "view on youtube")
 
-The source code is private, send me message if you want to contribute (gauthierbouyjou@aol.com).
+The source code contains Valve assets, I can't share the project with others.
+However I used this tutorial to make the CS clone : https://www.udemy.com/course/unreal-engine-5-make-a-firstperson-game-with-blueprints/
+You need an account to watch the tutorial.
+Have a good code.
 
 Starting date : 2025
 
